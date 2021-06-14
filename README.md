@@ -1,4 +1,4 @@
-# insurance-eureka-discovery [![Build Status](https://travis-ci.com/saurabh5788/insurance-eureka-discovery.svg?branch=main)](https://travis-ci.com/saurabh5788/insurance-eureka-discovery)
+# Insurance Service Discovery [![Build Status](https://travis-ci.com/saurabh5788/insurance-service-discovery.svg?branch=main)](https://travis-ci.com/saurabh5788/insurance-service-discovery)
 Service Discovery Server : Dedicated server responsible for maintaining the registry of all the microservices that have been deployed and removed.
 
 ## Platform and Frameworks
