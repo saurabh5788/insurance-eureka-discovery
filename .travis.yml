@@ -33,7 +33,7 @@ before_deploy:
 deploy:
  provider: heroku
  api_key: $HEROKU_API_KEY
- app: insurance-eureka-discovery
+ app: insurance-service-discovery
  on: main
 
 after_deploy:
