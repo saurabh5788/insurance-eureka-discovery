@@ -14,7 +14,7 @@ Service Discovery Server : Dedicated server responsible for maintaining the regi
 1. Make sure you have [Java 8](https://www.java.com/download/) and GIT
 2. Clone this repository 
 ```
-$ git clone https://github.com/saurabh5788/insurance-eureka-discovery.git
+$ git clone https://github.com/saurabh5788/insurance-service-discovery.git
 ```
 3. Run the project
 ```
